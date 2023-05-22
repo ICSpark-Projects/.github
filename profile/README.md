@@ -10,8 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-| Project Title      | Author           | Description  |  Topic          | Template (Easy) | Template (Hard) | Solution      |
-| ------------------ |:----------------:|:------------:|:---------------:|:---------------:|:---------------:|--------------:|
+| Project Title      | Author           | Description            |  Topic          | Template (Easy) | Template (Hard) | Solution      |
+| ------------------ |:----------------:|:----------------------:|:---------------:|:---------------:|:---------------:|--------------:|
 | Introducing Me | Maya Chang | To help the mentors and other students get to know you, let's create a small website to introduce yourself. | Week 1: Intro to HTML, CSS, JS | https://github.com/ICSpark-Projects/Introduce-Me | N/A | N/A
 | Red Velvet Cookies Recipe | Briana Lee | Use CSS Flexbox to a website about Red Velvet Cookies Recipe | Week 3: CSS Flexbox | https://github.com/ICSpark-Projects/Red-Velvet-Cookies | N/A | https://github.com/ICSpark-Projects/Red-Velvet-Cookies-Solution
 | Minecraft Code Gallery | Jordan Le | Minecraft Entity Gallery and Overworld Layers Website | Week 4: Introductory Javascript | https://github.com/ICSpark-Projects/Minecraft-Code-Gallery-Easy | https://github.com/ICSpark-Projects/Minecraft-Code-Gallery-Hard | https://github.com/ICSpark-Projects/Minecraft-Code-Gallery-Solution
