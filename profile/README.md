@@ -12,6 +12,6 @@
 -->
 | Project Title      | Author           | Description  |  Topic          | Template (Easy) | Template (Hard) | Solution      |
 | ------------------ |:----------------:|:------------:|:---------------:|:---------------:|:---------------:|--------------:|
-| col 3 is      | right-aligned | $1600 |
+| Introducing Me | Maya Chang | To help the mentors and other students get to know you, let's create a small website to introduce yourself. | HTML Tags and CSS Targeting | (link)[https://github.com/ICSpark-Projects/Introduce-Me] | N/A | N/A
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
