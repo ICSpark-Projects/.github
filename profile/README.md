@@ -13,5 +13,7 @@
 | Project Title      | Author           | Description  |  Topic          | Template (Easy) | Template (Hard) | Solution      |
 | ------------------ |:----------------:|:------------:|:---------------:|:---------------:|:---------------:|--------------:|
 | Introducing Me | Maya Chang | To help the mentors and other students get to know you, let's create a small website to introduce yourself. | HTML Tags and CSS Targeting | https://github.com/ICSpark-Projects/Introduce-Me | N/A | N/A
+
 | Red Velvet Cookies Recipe | Briana Lee | Use CSS Flexbox to a website about Red Velvet Cookies Recipe | Week 3: CSS Flexbox | https://github.com/ICSpark-Projects/Red-Velvet-Cookies | N/A | https://github.com/ICSpark-Projects/Red-Velvet-Cookies-Solution
+
 |a | a
